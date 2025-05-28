@@ -88,7 +88,7 @@ const ResearchQuery = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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'
+          'Authorization': 'Bearer perplexity-token'
         },
         body: JSON.stringify({
           model: "sonar-pro",
@@ -122,7 +122,7 @@ const ResearchQuery = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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'
+          'Authorization': 'Bearer perplexity-token'
         },
         body: JSON.stringify({
           model: "sonar-deep-research",
@@ -169,7 +169,7 @@ const ResearchQuery = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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'
+          'Authorization': 'Bearer perplexity-token'
         },
         body: JSON.stringify({
           model: "sonar-deep-research",
