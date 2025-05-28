@@ -7,6 +7,7 @@ reMedi streamlines the most resource-heavy and uncertain stages of early drug di
 
 Drug discovery takes around 10-15 years [Source: DiMasi, J. A., Grabowski, H. G., & Hansen, R. W. (2016). Innovation in the pharmaceutical industry: New estimates of R&D costs. Journal of Health Economics, 47, 20–33.] reMedi accelerates drug discovery by unifying the entire pipeline — from molecule creation to deep biological insight — into a single, intuitive system. It’s not just faster — it’s smarter, more connected, and built for the urgency of real-world healthcare, saving 3-5 years of development time and plans to save more in future iterations
 
+ppt: https://www.canva.com/design/DAGovBtkJQ4/3mdHofHrBqdXPDicauRQEA/edit?utm_content=DAGovBtkJQ4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Installation On Local Computer
 
 **NOTE:** This project was built and compiled on wsl, please use a linux machine to run this otherwise you may run into os errors (servers use linux anyways :P). Most of the packages are listed in requirements.txt a few packages to be installed from github has been left out.
