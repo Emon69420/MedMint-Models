@@ -1,6 +1,8 @@
 # reMedi
 ### Chainging future of bio-medical research with AI
 
+Note- Open the website link in incognito mode if it doesn't open regularly, Browser security plays around with the website as it does not have a ssl
+
 reMedi is a beginner-friendly toolkit for drug discovery that uses some of the most advanced AI models for designing new compounds, like TamGen, chemBERTa, and DeepPurpose. It also includes smart tools for searching with graphs to find relations between existing entities (genes, proteins etc), understanding molecule structures, and using Perplexity Sonar API to proovide more context to the generated results making it more human interpretable and accelerating research
 
 reMedi streamlines the most resource-heavy and uncertain stages of early drug discovery — from identifying a viable target to generating and evaluating candidate compounds. This drastically reduces time, cost, and cognitive overhead for researchers, bridging gaps between silos and boosting the chances of clinical success.
